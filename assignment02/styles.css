@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+    font-weight: bolder;
+    color: #b69a8f;
+    }
+
+h3 {
+    font-family: 'Mooli', sans-serif;
+    font-size: 18px;
+    color: #77776e;
+    line-height: 30px;
+    }
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: #77776e;
+    }
+
+marquee {
+    color: #77776e;
+}    
+
+body {
+    background-size:cover
+}

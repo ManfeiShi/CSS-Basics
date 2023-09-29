@@ -1,0 +1,39 @@
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #ae956b;
+    }
+
+body {
+    background-color: #f3f2e9;
+    color: #799cac;
+    }
+
+.item1 {
+    float:right
+    }
+
+.neon {
+    text-decoration: none;
+    color: #5d432a;
+    font-weight: bold;
+}
+    
+.bold {
+    font-weight: bolder;
+}
+
+main, header, footer {
+    padding: 20px;
+  }
+  
+header{
+        height: 20vh;
+      }
+      
+main {
+        height: 80vh;
+      }
+
