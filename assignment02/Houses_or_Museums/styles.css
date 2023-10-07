@@ -7,6 +7,7 @@ h3 {
     }
 
 body {
+    font-family: 'Quicksand', sans-serif;
     background-color: #f3f2e9;
     color: #799cac;
     }
@@ -34,6 +35,39 @@ header{
       }
       
 main {
-        height: 80vh;
+        height: 73vh;
       }
 
+footer {
+        height: 7vh;
+        position:fixed;
+        bottom: 0;
+        width: 75%;
+        background: #f3f2e9;
+        font-family: 'Caveat', cursive;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+}
+
+footer a {
+    color: #ae956b;
+    text-decoration: none;
+}
+
+figure {
+        width:75%;
+        margin:auto;
+        position:relative;
+    }
+
+    img {
+        width:100%;
+    }
+
+figcaption {
+        position:absolute;
+        right:10px;
+        bottom:10px;
+        color: #799cac;
+}
