@@ -23,7 +23,8 @@ marquee {
 }    
 
 body {
-    background-size:cover
+    background-size:cover;
+    margin:0px;
 }
 
   .clip-circle{
